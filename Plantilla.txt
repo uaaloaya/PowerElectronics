@@ -2,4 +2,6 @@ Hola buenos días
 
 Mi nombre es Manuel y mi DNI es 12345678A
 
+Mi nombre es Alexis Alonso  y mi DNI es PN05381015
+
 Estoy haciendo un ejercicio de git muy sencillo e interesante
